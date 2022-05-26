@@ -6,4 +6,10 @@
   <li> Aprender más sobre JS </li>
   <li> Estar con mi familia </li>
   <li> Viajar </li>
+  <li> Aprender y aprender </li>
+</ul>
+## Estudios
+<ul> 
+  <li> Analista Programador ( 2020 - 2022 ) </li>
+  <li> Ingeniería en Informatica ( 2022 - 2024 ) </li>
 </ul>
