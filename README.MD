@@ -8,7 +8,7 @@
   <li> Viajar </li>
   <li> Aprender y aprender </li>
 </ul>
-## Estudios
+<h1 class="text-success">Estudios</h1>
 <ul> 
   <li> Analista Programador ( 2020 - 2022 ) </li>
   <li> Ingeniería en Informatica ( 2022 - 2024 ) </li>
