@@ -1,5 +1,5 @@
 # Hello World 
-## Me llamo Gonzalo Rojas, soy un *Frontend Junior*, actualmente estoy trabajando en Doctum Limitada.
+## Me llamo Gonzalo Rojas, soy un *Frontend Junior*, actualmente estoy trabajando en Cencosud.
 <h1>¿Que me gusta hacer?</h1>
 <ul> 
   <li> Crear diseños web </li>
