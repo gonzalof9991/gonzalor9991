@@ -1,5 +1,5 @@
 # Hello World 
-## Me llamo Gonzalo Rojas, soy un *Frontend Junior*, actualmente estoy trabajando en Cencosud.
+## Me llamo Gonzalo Falfan, soy *Software Developer*, actualmente estoy trabajando como Frontend UI en Cencosud.
 <h1>¿Que me gusta hacer?</h1>
 <ul> 
   <li> Crear diseños web </li>
@@ -10,8 +10,8 @@
 </ul>
 <h1>Mis estudios</h1>
 <ul> 
-  <li> Analista Programador ( 2020 - 2022 ) </li>
-  <li> Ingeniería en Informatica ( 2022 - 2024 ) </li>
+  <li> Analista Programador ( 2019 - 2021 ) </li>
+  <li> Ingeniería en Informatica ( 2019 - 2022 ) </li>
 </ul>
 <h1>Skills</h1>
 <ul> 
