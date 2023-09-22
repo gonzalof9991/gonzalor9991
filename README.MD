@@ -1,34 +1,22 @@
-# Hello World 
-## Me llamo Gonzalo Falfan, soy *Software Developer*, actualmente estoy trabajando como Frontend UI en Cencosud.
-<h1>¿Que me gusta hacer?</h1>
-<ul> 
-  <li> Crear diseños web </li>
-  <li> Aprender más sobre JS </li>
-  <li> Estar con mi familia </li>
-  <li> Viajar </li>
-  <li> Aprender y aprender </li>
-</ul>
-<h1>Mis estudios</h1>
-<ul> 
-  <li> Analista Programador ( 2019 - 2021 ) </li>
-  <li> Ingeniería en Informatica ( 2019 - 2022 ) </li>
-</ul>
-<h1>Skills</h1>
-<ul> 
-  <li> Vue JS - Angular - React</li>
-  <li> Consumo de API REST</li>
-  <li> Maquetación en CSS3 - HTML5</li>
-  <li> Creación de interfaces en Figma</li>
-  <li> Laravel - Django</li>
-  <li> Manejo de mapas (Leaflet - GoogleMaps)</li>
-  <li> Metodologia Agile</li>
-</ul>
-<h1>Soft Skills</h1>
-<ul> 
-  <li> Proactivo </li>
-  <li> Aprendizaje Autodidacta </li>
-  <li> Trabajo en equipo </li>
-  <li> Comunicativo </li>
-  <li> Responsable </li>
-  <li> Empatico </li>
-</ul>
+¡Hola! Soy un desarrollador Front End altamente capacitado con un fuerte enfoque en el diseño UX/UI. Mi pasión es crear interfaces de usuario atractivas e intuitivas que proporcionen experiencias de usuario excepcionales. Además, tengo experiencia en desarrollo Back End, lo que me permite trabajar en proyectos Full Stack y garantizar una integración fluida entre el front end y el back end.
+
+Experiencia en Desarrollo Front End
+Tecnologías: Angular, React, Vue
+Diseño UI/UX: Figma, Adobe XD
+Resultados: Desarrollo exitoso de interfaces de usuario atractivas y funcionales
+Experiencia en Desarrollo Back End
+Lenguajes: Java (Spring Boot), Python (Flask, Django), PHP (Laravel)
+Full Stack: Capacidad para trabajar en proyectos que abarcan el front end y el back end
+Integración: Garantía de una integración perfecta entre el front end y el back end
+Herramientas de Virtualización y Contenedores
+Docker y Kubernetes: Experiencia en el uso de Docker y Kubernetes para implementar y gestionar aplicaciones de manera eficaz.
+Servicios en la Nube: Conocimiento de AWS y Azure para implementar soluciones escalables en la nube.
+Desarrollo de Aplicaciones Móviles
+React Native e Ionic: Creación de aplicaciones móviles versátiles y compatibles con una amplia gama de plataformas.
+Contacto
+¡Estoy emocionado por la oportunidad de trabajar en proyectos desafiantes y emocionantes! Si deseas colaborar o conocer más acerca de mis habilidades, no dudes en ponerte en contacto conmigo.
+
+Email: TuEmail@gmail.com
+LinkedIn: TuPerfilLinkedIn
+GitHub: TuPerfilGitHub
+¡Espero con interés trabajar contigo y contribuir al éxito de tu proyecto!
