@@ -8,6 +8,7 @@
 - Experiencia en Desarrollo Back End
 - Lenguajes: 
   - Java (Spring Boot)
+  - JavaScript (Node - Nest - Next)
   - Python (Flask, Django)
   - PHP (Laravel)
 - Full Stack: 
