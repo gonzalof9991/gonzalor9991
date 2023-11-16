@@ -6,23 +6,23 @@
 - Diseño UI/UX: Figma, Adobe XD
 ### Resultados: Desarrollo exitoso de interfaces de usuario atractivas y funcionales
 - Experiencia en Desarrollo Back End
-- Lenguajes: 
-  - Java (Spring Boot)
-  - JavaScript (Node - Nest - Next)
-  - Python (Flask, Django)
-  - PHP (Laravel)
+  - Lenguajes: 
+    - Java (Spring Boot)
+    - JavaScript (Node - Nest - Next)
+    - Python (Flask, Django)
+    - PHP (Laravel)
 - Full Stack: 
   - Capacidad para trabajar en proyectos que abarcan el front end y el back end
 - Integración: 
   - Garantía de una integración perfecta entre el front end y el back end
 - Herramientas de Virtualización y Contenedores
-- Docker y Kubernetes: 
-  - Experiencia en el uso de Docker y Kubernetes para implementar y gestionar aplicaciones de manera eficaz.
+  - Docker y Kubernetes: 
+    - Experiencia en el uso de Docker y Kubernetes para implementar y gestionar aplicaciones de manera eficaz.
 - Servicios en la Nube: 
   - Conocimiento de AWS y Azure para implementar soluciones escalables en la nube.
 - Desarrollo de Aplicaciones Móviles
-- React Native e Ionic: 
-  - Creación de aplicaciones móviles versátiles y compatibles con una amplia gama de plataformas.
+  - React Native e Ionic: 
+    - Creación de aplicaciones móviles versátiles y compatibles con una amplia gama de plataformas.
 ### Contacto
 ¡Estoy emocionado por la oportunidad de trabajar en proyectos desafiantes y emocionantes! Si deseas colaborar o conocer más acerca de mis habilidades, no dudes en ponerte en contacto conmigo.
 
